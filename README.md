@@ -1,5 +1,9 @@
  <div align="center">
 
+<div align="center">
+  <img src="images/banner.png" width="100%" alt="Banner do perfil">
+</div>
+
 # 👋 Olá, eu sou o Matheus!
 
 ### 💻 Computer Engineering Student | Aspiring Software Developer
