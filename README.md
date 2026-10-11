@@ -24,6 +24,12 @@ Estudante de Engenharia da Computação no ENIAC, interessado em desenvolvimento
 - 📚 Sempre aprendendo novas tecnologias e aprimorando minhas habilidades.
 - 🎯 Em busca de oportunidades para crescer profissionalmente na área de TI.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Codemazucahub1/Codemazucahub1/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Codemazucahub1/Codemazucahub1/output/github-snake.svg" />
+  <img alt="Animação da cobrinha nas contribuições" src="https://raw.githubusercontent.com/Codemazucahub1/Codemazucahub1/output/github-snake.svg" />
+</picture>
+
 ## 🛠️ Tecnologias e ferramentas
 
 <div align="center">
