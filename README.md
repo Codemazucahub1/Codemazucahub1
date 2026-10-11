@@ -1,8 +1,8 @@
  <div align="center">
 
-<div align="center">
-  <img src="images/Banner_Matheus.png" width="100%" alt="Banner do perfil">
-</div>
+<p align="center">
+  <img src="Banner_Matheus.png" alt="Banner do perfil" width="100%">
+</p>
 
 # 👋 Olá, eu sou o Matheus!
 
